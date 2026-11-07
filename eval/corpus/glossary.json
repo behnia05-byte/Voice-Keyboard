@@ -1,0 +1,9 @@
+{
+  "description": "Terms used to bias speech recognition (sent as the decoder prompt when --bias is on).",
+  "terms": [
+    "Scope of Work", "Contractor", "Site Meeting", "Variation Order", "Project Manager",
+    "Concrete Slump", "Google Drive", "Invoice", "Safety Induction", "RFI", "AS 3600",
+    "Design Changes", "Purchase Order", "Traffic Control", "Defect List", "Practical Completion",
+    "toolbox talk", "subbies", "GST", "development application", "arvo", "scaffold inspection"
+  ]
+}
