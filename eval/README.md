@@ -1,6 +1,8 @@
-# Speech Recognition Evaluation
+# Evaluation Tools
 
-Scores speech recognition providers on Persian, English and mixed speech.
+Two comparison tools:
+- **Speech recognition** (`goftar_eval.bakeoff`): scores providers on Persian, English and mixed speech. Described below.
+- **AI writing** (`goftar_eval.rewrite_bakeoff`): scores models on Clean, Professional and Translate. See [docs/phase0](../docs/phase0/README.md#ai-writing-comparison-d5).
 
 ## Metrics
 | Metric | Meaning |
